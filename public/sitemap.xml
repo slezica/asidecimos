@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2012-10-23T13:54:40-03:00</lastmod>
+        <loc>http://cosasquedecimos.herokuapp.com//blog/archives/</loc>
+        <lastmod>2012-10-23T23:34:50-03:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2012-10-23T13:54:40-03:00</lastmod>
+        <loc>http://cosasquedecimos.herokuapp.com//</loc>
+        <lastmod>2012-10-23T23:36:55-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cosasquedecimos.herokuapp.com//about/</loc>
+        <lastmod>2012-10-23T23:20:44-03:00</lastmod>
     </url>
 </urlset>
