@@ -1,0 +1,14 @@
+---
+layout: post
+title: "\"Tocayo\""
+date: 2012-10-25 01:01
+comments: true
+categories:
+published: false
+---
+
+Llamamos tocayo a quien tiene el mismo nombre que uno. Formalmente, "tocayo" es sinónimo de "homónimo", valga el trabalenguas.
+
+La palabra tiene su origen en el ritual romano de nupcias, en donde la mujer, al asumir el apellido del marido, pronunciaba la frase _"ubi tu Cayo, ibi ego Caya"_: "donde seas Cayo, seré yo Caya".
+
+El tiempo contrajo la expresión ceremonial a "tocayo".
