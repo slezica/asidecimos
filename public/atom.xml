@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[cosas que decimos]]></title>
+  <title><![CDATA[así decimos]]></title>
   <link href="http://cosasquedecimos.herokuapp.com//atom.xml" rel="self"/>
   <link href="http://cosasquedecimos.herokuapp.com//"/>
-  <updated>2012-10-23T23:44:01-03:00</updated>
+  <updated>2012-10-24T21:34:55-03:00</updated>
   <id>http://cosasquedecimos.herokuapp.com//</id>
   <author>
     <name><![CDATA[Santiago Lezica]]></name>
@@ -12,5 +12,62 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA["Perdido como turco en la neblina"]]></title>
+    <link href="http://cosasquedecimos.herokuapp.com//perdido-como-turco-en-la-neblina/"/>
+    <updated>2012-10-24T20:43:00-03:00</updated>
+    <id>http://cosasquedecimos.herokuapp.com//perdido-como-turco-en-la-neblina</id>
+    <content type="html"><![CDATA[<p>Ninguno de mis amigos es turco, pero nunca me dieron a entender que los turcos fueran particularmente propensos a desorientarse. ¿Un tailandés en la neblina no está tan perdido como un turco? ¿Un australiano? ¿La niebla es especialmente espesa en Turquía?</p>
+
+<p><img class="right" src="http://cosasquedecimos.herokuapp.com//images/turco_en_la_neblina.jpg" title="Turco en la neblina" ></p>
+
+<p>Sucede que, originalmente, la frase no hablaba de ningún turco sino de una turca. <em>&#8220;Con una turca en la neblina&#8221;</em>, se decía, y aunque no parezca esto tiene mucho más sentido.</p>
+
+<p>En tiempos ya bien pasados, allá en España, al vino puro se lo llamaba (en un giro humorístico que hoy sería visto de reojo) <em>vino turco</em>. Al no estar rebajado con agua, no estaba <em>bautizado</em>. Acompañando la expresión, una borrachera se apodaba cariñosamente <em>una turca</em>.</p>
+
+<p>En otras palabras, la expresión significa <em>borracho en la niebla</em>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["Tirar la casa por la ventana"]]></title>
+    <link href="http://cosasquedecimos.herokuapp.com//tirar-la-casa-por-la-ventana/"/>
+    <updated>2012-10-24T18:50:00-03:00</updated>
+    <id>http://cosasquedecimos.herokuapp.com//tirar-la-casa-por-la-ventana</id>
+    <content type="html"><![CDATA[<p>Difícil es recoger una casa del suelo, mucho más tirarla por la ventana. Tendría que ser la ventana de otra casa, como mínimo. Aún si la casa fuese suficientemente pequeña y la ventana suficientemente grande, ¿de ahí a derrochar dinero? Parece una metáfora rebuscada.</p>
+
+<p>Curiosamente, no tiene nada de metafórico.</p>
+
+<p><img class="left" src="http://cosasquedecimos.herokuapp.com//images/casa_por_la_ventana.jpg" title="Casa tirada por la ventana" ></p>
+
+<p>En 1763, Carlos III trajo a España una idea italiana: la lotería nacional. Con ella, instauró inadvertidamente una costumbre de lo más llamativa. Los ganadores de la lotería, en señal de festejo y anuncio indiscreto de su nueva fortuna, arrojaban por la ventana los muebles de la casa. Así como suena.</p>
+
+<p>Más de doscientos años después, la frase sigue asociada en el subconciente colectivo a la idea de malgastar.</p>
+
+<p>En un giro aún más sorpresivo, esta tradición se perdió en España (y nunca llegó a Argentina), pero dio media vuelta y se mantiene aún hoy en algunas regiones meridionales de Italia.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA["Quedar en pampa y la vía"]]></title>
+    <link href="http://cosasquedecimos.herokuapp.com//quedar-en-pampa-y-la-via/"/>
+    <updated>2012-10-23T21:06:00-03:00</updated>
+    <id>http://cosasquedecimos.herokuapp.com//quedar-en-pampa-y-la-via</id>
+    <content type="html"><![CDATA[<p>Quedar en pampa y la vía significa hallarse sin dinero y a merced del viento. ¿Qué? Sí. En palabras criollas, <em>nada que ver con nada</em>.</p>
+
+<p> El lector argentino reconocerá esta frase como de forja nacional. Más precisamente, la expresión se originó en la ciudad de Buenos Aires, en la calle La Pampa al 1500, cerca del año 1857.</p>
+
+<p> Hagamos un poco de historia.</p>
+
+<p><img class="right" src="http://cosasquedecimos.herokuapp.com//images/pampa_y_la_via.jpg" title="Pampa y la vía" ></p>
+
+<p>En 1857 abrió en Buenos Aires el hipódromo porteño. Además de las atracciones provistas por las carreras y el juego, ofrecía a sus visitantes un viaje gratis en tranvía desde y hacia la estación de tren más cercana. Ésta quedaba sobre la calle La Pampa, en donde las vías del Ferrocarril Belgrano interrumpen aún hoy el tránsito.</p>
+
+<p>Los jugadores desmedidos que dejaban ir hasta el último centavo en una apuesta perdedora, al terminar la jornada de carreras, podían tomar el tranvía pero quedaban luego varados sin poder pagar un tren que los llevara de vuelta a casa.</p>
+
+<p>Sin dinero, se encontraban estancados en Pampa y la vía.</p>
+]]></content>
+  </entry>
   
 </feed>

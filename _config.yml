@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://cosasquedecimos.herokuapp.com/
-title: cosas que decimos
+title: así decimos
 subtitle: cuentos cortos del lenguaje
 author: Santiago Lezica
 #simple_search: http://google.com/search
@@ -73,7 +73,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

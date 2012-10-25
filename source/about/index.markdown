@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cosas que decimos"
+title: "Así decimos"
 date: 2012-10-23 23:20
 comments: true
 sharing: true
