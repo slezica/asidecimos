@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Echar el muerto\""
-date: 2012-10-25 18:55
+date: 2012-10-26 18:55
 comments: true
 categories:
 ---
